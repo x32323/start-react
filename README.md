@@ -4,11 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## First of all
 
-Run `yarn` or `npm install`
+Run **yarn** or **npm install**
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn server`
+build your react app and then use express to start web server(default port: 8000), you can edit server.js to set. <br />
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
 ### `yarn start`
 
